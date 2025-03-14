@@ -1,25 +1,15 @@
+# The final project for ECE 550 Linear Systems
+---
 
-% FINALPROJECT MATLAB SOURCE CODE
-%
-% TEAM 1 | ECE 550 | OSU WINTER 2023 TERM.
-%
-% NAME: OLUWASEGUN SOMEFUN and NAM NGUYEN.
-% somefuno@oregonstate.edu
-% nguynam4@oregonstate.edu
+## **Description**
 
-Main Source-code:
-    'ece550exam_team1_oluwasegun_nam_2023.mlx'
+This repository contains the source code and documentation of my final project for ECE 550, Linear Systems.
 
-# Directories
+---
 
-###savedplts
-    directory with saved plots, answering a specific question
+## **Contents**
 
+- **Code**:  
+  The repository includes the implementation of the final project and experiments written in MATLAB programming language.  
 
-# Functions
-
-###c2dsim.m:
-    function to simulate a discretized CT linear system 
-
-###plotter.m
-    function plot and save states, x and outputs, y of a linear system
+---
